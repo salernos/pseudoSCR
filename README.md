@@ -70,7 +70,7 @@ Here, we generate a dataset of 500 observations (`n`), with a true copula depend
 theta_fine_ht <- theta_loi(simdat_ht, x_ind = 8:10)
 ```
 
-We then estimate our pseudo-values at time points $t$ = 0.2, 0.4, 0.6 and 0.8 using the function `pseudo_scr()` and our estimated theta value, `theta_fine_ht`:
+We then estimate our pseudo-values at time points $t$ = 0.2, 0.4, 0.6, 0.8, and 1.0 using the function `pseudo_scr()` and our estimated theta value, `theta_fine_ht`:
 
 ```
 time <- seq(0.2, 1, by = 0.2)
