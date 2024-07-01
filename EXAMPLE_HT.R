@@ -1,6 +1,10 @@
 #===============================================================================
 #
+<<<<<<< HEAD
 #  FILE: EXAMPLE_HT.R
+=======
+#  FILE: EXAMPLE_PSEUDO.R
+>>>>>>> d03f4959a5d4b9a0215611f79bb5921e05f081f6
 #
 #  AUTHOR: Stephen Salerno (ssalerno@fredhutch.org)
 #
